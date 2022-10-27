@@ -1,0 +1,10 @@
+fileignoreconfig:
+- filename: backend/.flaskenv
+  checksum: a5d3ae0ae5cf5226609c9b0e949e1f28a44de50ea5df20b64af1d5e2e4fcb489
+- filename: frontend/package-lock.json
+  checksum: 93ea1bbc08b2a326c086892885f04038ac6073ce0a11a17fb3ad29f9a239a9f9
+- filename: frontend/src/App.js
+  checksum: 1290f9bcdb78c62bf2a69029dcd4d194eee2df79fc4cdd6fe47375895989adba
+- filename: frontend/src/components/NameList.js
+  checksum: 189ab9b1c245d046b32cb5400dcc8cca1c0ec2fb99101f07fde379bb004220a1
+version: ""
